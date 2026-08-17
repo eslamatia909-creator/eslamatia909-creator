@@ -1,6 +1,9 @@
-## Hey there 👋, I'm [Eslam Ahmed Shawky](https://github.com/YOUR_GITHUB_USERNAME)
+## Hey there 👋, I'm Eslam Ahmed Shawky
 
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:eslamatia909@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square\&logo=Facebook\&logoColor=white)](#)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=Instagram\&logoColor=white)](#)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square\&logo=Telegram\&logoColor=white)](#)
 
 ### Glad to see you here! 🚀
 
@@ -47,7 +50,7 @@ Feel free to connect with me for anything related to web development, programmin
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="SQL"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"></code>
 
 ### Projects and Dev Stuffs:
 
